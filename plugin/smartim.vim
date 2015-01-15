@@ -1,5 +1,5 @@
 if !exists("g:smartim_default")
-    let g:smartim_default = "com.apple.keylayout.US"
+    let g:smartim_default = "com.apple.keylayout.Dvorak"
 endif
 
 let s:imselect_path = expand('<sfile>:p:h') . "/im-select "
